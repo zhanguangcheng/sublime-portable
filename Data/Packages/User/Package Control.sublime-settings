@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CFG Configuration Syntax Highlighting",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"ExtendedTabSwitcher",
+		"GotoDocumentation",
+		"IMESupport",
+		"INI",
+		"jQuery",
+		"Modific",
+		"nginx",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PHP Companion",
+		"phpfmt",
+		"PhpNinJaManual",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}

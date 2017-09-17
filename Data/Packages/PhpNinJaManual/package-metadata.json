@@ -1,0 +1,1 @@
+{"description": "Sublime\u4e2d\u7684\u51fd\u6570\u624b\u518c\u63d0\u793a\uff0c\u4e2d\u6587\uff0c\u5176\u4ed6\u8bed\u8a00\u7684\u53ef\u4ee5\u901a\u8fc7\u547d\u4ee4\u751f\u6210", "dependencies": [], "sublime_text": ">=3000", "url": "https://github.com/yangweijie/SublimePHPNinJaManual", "platforms": ["*"], "version": "1.0.2"}

@@ -1,0 +1,13 @@
+Cache
+Index
+Installed Packages/PyV8
+Installed Packages/0_package_control_loader.sublime-package
+Lib
+Local
+!Local/License.sublime_license
+Packages/User/*
+!Packages/User/Default (Windows).sublime-keymap
+!Packages/User/OmniMarkupPreviewer.sublime-settings
+!Packages/User/Package Control.sublime-settings
+!Packages/User/phpfmt.sublime-settings
+!Packages/User/Preferences.sublime-settings

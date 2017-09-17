@@ -1,0 +1,31 @@
+[
+     { "keys": ["alt+h"], "command": "move", "args": {"by": "characters", "forward": false} },
+     { "keys": ["alt+j"], "command": "move", "args": {"by": "lines", "forward": true} },
+     { "keys": ["alt+k"], "command": "move", "args": {"by": "lines", "forward": false} },
+     { "keys": ["alt+l"], "command": "move", "args": {"by": "characters", "forward": true} },
+     { "keys": ["ctrl+alt+h"], "command": "move", "args": {"by": "words", "forward": false} },
+     { "keys": ["ctrl+alt+j"], "command": "scroll_lines", "args": {"amount": -1.0 } },
+     { "keys": ["ctrl+alt+k"], "command": "scroll_lines", "args": {"amount": 1.0 } },
+     { "keys": ["ctrl+alt+l"], "command": "move", "args": {"by": "word_ends", "forward": true}},
+     { "keys": ["alt+shift+h"], "command": "move", "args": {"by": "characters", "forward": false, "extend": true} },
+     { "keys": ["alt+shift+j"], "command": "move", "args": {"by": "lines", "forward": true, "extend": true} },
+     { "keys": ["alt+shift+k"], "command": "move", "args": {"by": "lines", "forward": false, "extend": true} },
+     { "keys": ["alt+shift+l"], "command": "move", "args": {"by": "characters", "forward": true, "extend": true} },
+     { "keys": ["ctrl+shift+alt+h"], "command": "move", "args": {"by": "words", "forward": false, "extend": true} },
+     { "keys": ["ctrl+shift+alt+j"], "command": "move", "args": {"by": "pages", "forward": true} },
+     { "keys": ["ctrl+shift+alt+k"], "command": "move", "args": {"by": "pages", "forward": false} },
+     { "keys": ["ctrl+shift+alt+l"], "command": "move", "args": {"by": "word_ends", "forward": true, "extend": true} },
+
+     { "keys": ["alt+."], "command": "indent" },
+     { "keys": ["alt+,"], "command": "unindent" },
+     { "keys": ["alt+;"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+     { "keys": ["alt+m"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+     { "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+
+     { "keys": ["f1"], "command": "show_php_document" },
+     { "keys": ["shift+f1"], "command": "goto_documentation" },
+     { "keys": ["alt+f"], "command": "fmt_now" },
+     { "keys": ["alt+u"], "command": "find_use" },
+     { "keys": ["ctrl+alt+f"], "command": "htmlprettify" },
+     { "keys": ["alt+n"], "command": "extended_switcher", "args": {"list_mode": "window"} }
+]
