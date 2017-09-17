@@ -1,11 +1,11 @@
 Cache
 Index
-Installed Packages/PyV8
-Installed Packages/0_package_control_loader.sublime-package
 Lib
-Local
+Local/*
 !Local/License.sublime_license
 Packages/User/*
+!Packages/User/build
+!Packages/User/snippet
 !Packages/User/Default (Windows).sublime-keymap
 !Packages/User/OmniMarkupPreviewer.sublime-settings
 !Packages/User/Package Control.sublime-settings

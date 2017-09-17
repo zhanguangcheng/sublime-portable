@@ -1,0 +1,4 @@
+{
+    "cmd": ["java", "-jar", "C:\\greenEnvironment\\yuicompressor\\2.4.8\\main.jar", "--type", "css", "$file", "-o", "$file_base_name.min.css"],
+    "selector": "source.css"
+}

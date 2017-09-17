@@ -8,7 +8,6 @@
 	"auto_indent": true,
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,

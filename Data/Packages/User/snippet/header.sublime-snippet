@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+header('content-type:text/html;charset=utf-8');
+]]></content>
+    <tabTrigger>header</tabTrigger>
+    <scope>source.php</scope>
+    <description>xc content-type...</description>
+</snippet>
